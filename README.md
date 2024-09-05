@@ -1,2 +1,2 @@
 # kvs
-Key-Value store implemented in C
+simple Key-Value store
